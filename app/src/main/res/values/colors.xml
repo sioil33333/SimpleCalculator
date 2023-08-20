@@ -3,4 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="gray">#efefef</color>
+
+    <color name="numberColor">#313131</color>
+    <color name="calculatorColor">#E99D39</color>
+
 </resources>
