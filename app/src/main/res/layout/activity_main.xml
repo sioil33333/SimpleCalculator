@@ -244,7 +244,7 @@
             android:layout_weight="1"
             android:backgroundTint="@color/calculatorColor"
             android:text="@string/_Clear"
-            android:textSize = "30dp"
+            android:textSize = "28dp"
             android:textColor="@color/black"
 
             android:onClick="onClear"
